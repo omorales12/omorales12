@@ -1,4 +1,4 @@
-![Banner](https://github.com/omorales12/omorales12/blob/main/Banner.png)
+![Banner](https://github.com/omorales12/omorales12/blob/main/Github%20Banner.png)
 
 ## Hey there! I'm Oscar Morales
 
